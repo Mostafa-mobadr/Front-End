@@ -1,0 +1,1 @@
+This is a repo made specifically for all the front end projects and testing of all the new features that i learn and not strictly related to the courses on coursera and will be independet 
